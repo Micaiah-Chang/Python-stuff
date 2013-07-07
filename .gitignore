@@ -9,3 +9,4 @@ project/env/*
 *.egg-info
 *pip-log.txt
 build
+*.db
